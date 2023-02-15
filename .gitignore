@@ -3,10 +3,12 @@
 *.pyo 
 *.pyo 
 
+
 # ambiente virtual
 env/
 
 #jupyter 
 
 .ipynb_checkpoints/
+~*.ipynb
 
