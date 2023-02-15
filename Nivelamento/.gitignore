@@ -1,0 +1,7 @@
+# arquivos Python 
+*.pyc
+*.pyo 
+*.pyo 
+
+# ambiente virtual
+env/
