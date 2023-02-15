@@ -1,2 +1,2 @@
 # BigDataAndAnalytics
-Repo do que foi feito no curso BigData and Analytics 
+Repositório do curso BigData and Analytics 
