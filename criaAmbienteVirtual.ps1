@@ -9,6 +9,7 @@ if($scriptDir -eq $atualSDir)
     .\env\Scripts\Activate.ps1 # ativa o ambiente virtual env
     python -m pip install --upgrade pip # atualiza o pip do env
     python -m pip install -r requirements.txt # baixa as libs necessárias em env
+    jupyter notebook # cria um servidor jupyter e abre no navegador 
 }
 
 
